@@ -1,16 +1,44 @@
-### Hi there 👋
 
-<!--
-**jhomarcelo/jhomarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" >
+ 
 
-Here are some ideas to get you started:
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=star+jedirs&size=35&pause=1000&color=FFFF00C&vCenter=true&width=600&height=70&lines=Hello+I'm+Jhonatan+Marcelo;a+Developer+Python;)](https://git.io/typing-svg)
+ 
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jhomarcelo)
+
+- 👨‍💻 Desenvolvedor Python 
+
+
+<div>
+  <a href="https://github.com/jhomarcelo">
+  <img height="151em" src="https://github-readme-stats.vercel.app/api?username=jhomarcelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhomarcelo&layout=compact&langs_count=16&theme=tokyonight"/>
+</div> 
+ 
+ <br>
+  <div>
+   
+  <img align="center" alt="Jhonatan-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Jhonatan-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+  <img align="center" alt="Jhonatan-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+   <img align="center" alt="Jhonatan-JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jhonatan-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" alt="Jhonatan-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="Jhonatan-mySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Jhonatan-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+   
+          
+</div>
+  
+<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+ 
+  <div> 
+  <!--<a href="https://www.linkedin.com/in/victor-d-amico-6a1681226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
+ 
+ 
+ ![snake gif](https://github.com/jhomarcelo/jhomarcelo/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
